@@ -1,0 +1,16 @@
+name: AIS
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - pandas
+  - jupyter
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - seaborn
+  - python
+  - tensorflow
+  - pip
+  - pip:
+    - streamlit
