@@ -25,12 +25,12 @@ This file consists of code to run the model using streamlit to run locally using
 
 
 ```bash
-streamlit run main.py
+streamlit run ./src/main.py
 ```
 
 ## 4. Video Demonstration
 
-In the video demonstration we clearly stated who the model and system works after deployment, the file is named as system_demo and for easy access we have given you the two extensions such as mp4 and webm.
+In the video demonstration we clearly stated how the model and system works after deployment, the file is named as system_demo and for easy access we have given you the two extensions such as mp4 and webm.
 
 ## 5. Deployment Strategy
 
