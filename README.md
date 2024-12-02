@@ -32,6 +32,8 @@ Saved model took more than 250 mb space, so we uploaded it into google drive and
 
 `Link:` [https://drive.google.com/file/d/1GbAmU9CN4laQErTA2aGJxAK18e4CpACX/view?usp=sharing](https://drive.google.com/file/d/1GbAmU9CN4laQErTA2aGJxAK18e4CpACX/view?usp=sharing)
 
+You need to download this document in .src/models
+
 ## 4. Video Demonstration
 
 In the video demonstration we clearly stated how the model and system works after deployment, the file is named as system_demo and for easy access we have given you the two extensions such as mp4 and webm.
