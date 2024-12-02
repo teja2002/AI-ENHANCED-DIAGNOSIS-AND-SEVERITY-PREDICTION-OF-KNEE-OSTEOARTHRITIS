@@ -28,6 +28,10 @@ This file consists of code to run the model using streamlit to run locally using
 streamlit run ./src/main.py
 ```
 
+Saved model took more than 250 mb space, so we uploaded it into google drive and gave everyone access.
+
+Link: ```https://drive.google.com/file/d/1GbAmU9CN4laQErTA2aGJxAK18e4CpACX/view?usp=sharing```
+
 ## 4. Video Demonstration
 
 In the video demonstration we clearly stated how the model and system works after deployment, the file is named as system_demo and for easy access we have given you the two extensions such as mp4 and webm.
