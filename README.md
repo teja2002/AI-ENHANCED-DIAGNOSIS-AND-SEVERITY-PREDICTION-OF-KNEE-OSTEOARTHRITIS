@@ -32,7 +32,7 @@ Saved model took more than 250 mb space, so we uploaded it into google drive and
 
 `Link:` [https://drive.google.com/file/d/1GbAmU9CN4laQErTA2aGJxAK18e4CpACX/view?usp=sharing](https://drive.google.com/file/d/1GbAmU9CN4laQErTA2aGJxAK18e4CpACX/view?usp=sharing)
 
-You need to download this document in .src/models
+You need to download this saved/trained model in .src/models
 
 ## 4. Video Demonstration
 
@@ -74,15 +74,15 @@ Pushed all the contents to the main branch and you can find up to data versions 
 3. Integrated explainability tools (e.g., Grad-CAM) to visualize and interpret model predictions.
 4. Designed and implemented the Streamlit-based application for user-friendly interactions.
 
-5. Incorporated functionalities for users to upload X-ray images and receive instant feedback on severity.
+5. Prepared train-test-validation splits and ensured dataset consistency.
 
 6. Ensured real-time deployment and efficient model inference within the app.
 
-7. Focused on testing the model’s performance in real-time conditions.
+7. Interacted with stakeholders to gather requirements and feedback. 
 
 8. Finalized deployment strategies for Streamlit.
 
-9. Designed CI/CD pipelines for updates and smooth application rollouts.
+9. Conducted a thorough literature review to understand the latest advancements in knee OA severity prediction.
 
 10. Maintained a README file to guide collaborators through the repository structure.
 
@@ -92,12 +92,12 @@ Pushed all the contents to the main branch and you can find up to data versions 
 
 2. Analyzed dataset quality and handled data imbalances through techniques like oversampling and class weighting.
 
-3. Prepared train-test-validation splits and ensured dataset consistency.
+3. Incorporated functionalities for users to upload X-ray images and receive instant feedback on severity.
 
 4. Drafted sections on data management, risk analysis, and validation outcomes.
 5. Designed the project structure for clarity and scalability
 6. Performed unit testing for the Streamlit application and end-to-end system validation.
-7. Interacted with stakeholders to gather requirements and feedback.
+7. Focused on testing the model’s performance in real-time conditions.
 
 8. Addressed stakeholder concerns related to ethical implications, model biases, and practical deployment.
 9. Established monitoring metrics and logging for app performance.
